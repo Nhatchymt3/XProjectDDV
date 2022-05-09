@@ -12523,11 +12523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\XProject.Service.csproj",
+      "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\XProject.Service.csproj",
       "projectName": "XProject.Service",
-      "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\XProject.Service.csproj",
+      "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\XProject.Service.csproj",
       "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\obj\\",
+      "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -12549,11 +12549,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
-              "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj"
+            "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
+              "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj"
             },
-            "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
-              "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj"
+            "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
+              "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj"
             }
           }
         }

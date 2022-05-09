@@ -1,5 +1,5 @@
 ﻿{
   "ConnectionStrings": {
-    "Development": "Data Source=LAPTOP-UV97QT2R\\SQLEXPRESS;Initial Catalog=xprojectupload;User ID=sa;Password=123"
+    "Development": "Data Source=45.119.82.72;Initial Catalog=FTSS-renew;User ID=ftss;Password=Zaq@1234!"
   }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Web\\XProject.WebApi\\XProject.WebApi.csproj": {}
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Web\\XProject.WebApi\\XProject.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj",
         "projectName": "XProject.Core",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
         "projectName": "XProject.Mapper",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj",
         "projectName": "XProject.Contract.Repository",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -231,8 +231,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj"
               }
             }
           }
@@ -265,14 +265,14 @@
         }
       }
     },
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Repository\\XProject.Repository.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Repository\\XProject.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Repository\\XProject.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Repository\\XProject.Repository.csproj",
         "projectName": "XProject.Repository",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Repository\\XProject.Repository.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Repository\\XProject.Repository.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Repository\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -294,8 +294,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj"
               }
             }
           }
@@ -344,14 +344,14 @@
         }
       }
     },
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj",
         "projectName": "XProject.Contract.Service",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -373,8 +373,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj"
               }
             }
           }
@@ -407,14 +407,14 @@
         }
       }
     },
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\XProject.Service.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\XProject.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\XProject.Service.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\XProject.Service.csproj",
         "projectName": "XProject.Service",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\XProject.Service.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\XProject.Service.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -436,11 +436,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj"
               },
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj"
               }
             }
           }
@@ -473,14 +473,14 @@
         }
       }
     },
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Web\\XProject.WebApi\\XProject.WebApi.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Web\\XProject.WebApi\\XProject.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Web\\XProject.WebApi\\XProject.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Web\\XProject.WebApi\\XProject.WebApi.csproj",
         "projectName": "XProject.WebApi",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Web\\XProject.WebApi\\XProject.WebApi.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Web\\XProject.WebApi\\XProject.WebApi.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Web\\XProject.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Web\\XProject.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -502,20 +502,20 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj"
               },
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Contract.Repository\\XProject.Contract.Repository.csproj"
               },
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Repository\\XProject.Repository.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Repository\\XProject.Repository.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Repository\\XProject.Repository.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Repository\\XProject.Repository.csproj"
               },
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Contract.Service\\XProject.Contract.Service.csproj"
               },
-              "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\XProject.Service.csproj": {
-                "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Service\\XProject.Service\\XProject.Service.csproj"
+              "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\XProject.Service.csproj": {
+                "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Service\\XProject.Service\\XProject.Service.csproj"
               }
             }
           }

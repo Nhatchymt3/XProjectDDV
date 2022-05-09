@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
+      "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
       "projectName": "XProject.Mapper",
-      "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
+      "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\XProject.Mapper.csproj",
       "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Mapper\\obj\\",
+      "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Mapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

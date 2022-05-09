@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj": {}
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj": {
+    "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj",
         "projectName": "XProject.Core",
-        "projectPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\XProject.Core.csproj",
+        "projectPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\XProject.Core.csproj",
         "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Cross\\XProject.Core\\obj\\",
+        "outputPath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Cross\\XProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

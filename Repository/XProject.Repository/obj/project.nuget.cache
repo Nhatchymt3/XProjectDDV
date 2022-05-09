@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4aKwY5Plsa59pAhRs2T5tFJrGGcsF66YQderR7fpzTK7B9hulaOUHDecP5JaVcotcFkILZ73hN3X3DaLb7p9A==",
+  "dgSpecHash": "j7E3yBkWjv4r7RHs5XFrlSMWIZ5rT9YKDiQ+N5JJrIes+sI62WiHd6u7inXz0dUDaUlg2xRAlCGPuTRngXZsXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\longn\\Desktop\\XProject\\XProject\\Repository\\XProject.Repository\\XProject.Repository.csproj",
+  "projectFilePath": "C:\\Users\\longn\\Documents\\GitHub\\XProjectDDV\\Repository\\XProject.Repository\\XProject.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\longn\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\longn\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
