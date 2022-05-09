@@ -1,0 +1,15 @@
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\bin\Debug\net5.0\XProject.Core.deps.json
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\bin\Debug\net5.0\XProject.Core.runtimeconfig.json
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\bin\Debug\net5.0\XProject.Core.runtimeconfig.dev.json
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\bin\Debug\net5.0\XProject.Core.dll
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\bin\Debug\net5.0\XProject.Core.pdb
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.csproj.AssemblyReference.cache
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.AssemblyInfoInputs.cache
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.AssemblyInfo.cs
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.dll
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\refint\XProject.Core.dll
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.pdb
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\XProject.Core.genruntimeconfig.cache
+C:\Users\longn\Desktop\XProject\XProject\Cross\XProject.Core\obj\Debug\net5.0\ref\XProject.Core.dll

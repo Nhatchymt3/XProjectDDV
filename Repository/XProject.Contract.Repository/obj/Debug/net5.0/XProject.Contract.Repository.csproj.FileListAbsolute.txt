@@ -1,0 +1,15 @@
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\bin\Debug\net5.0\XProject.Contract.Repository.deps.json
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\bin\Debug\net5.0\XProject.Contract.Repository.dll
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\bin\Debug\net5.0\XProject.Contract.Repository.pdb
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\bin\Debug\net5.0\XProject.Core.dll
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\bin\Debug\net5.0\XProject.Core.pdb
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.csproj.AssemblyReference.cache
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.AssemblyInfoInputs.cache
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.AssemblyInfo.cs
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.csproj.CoreCompileInputs.cache
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.csproj.CopyComplete
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.dll
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\refint\XProject.Contract.Repository.dll
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\XProject.Contract.Repository.pdb
+C:\Users\longn\Desktop\XProject\XProject\Repository\XProject.Contract.Repository\obj\Debug\net5.0\ref\XProject.Contract.Repository.dll

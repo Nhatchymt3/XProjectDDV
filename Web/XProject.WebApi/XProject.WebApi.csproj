@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Cross\XProject.Mapper\XProject.Mapper.csproj" />
+    <ProjectReference Include="..\..\Repository\XProject.Contract.Repository\XProject.Contract.Repository.csproj" />
+    <ProjectReference Include="..\..\Repository\XProject.Repository\XProject.Repository.csproj" />
+    <ProjectReference Include="..\..\Service\XProject.Contract.Service\XProject.Contract.Service.csproj" />
+    <ProjectReference Include="..\..\Service\XProject.Service\XProject.Service.csproj" />
+  </ItemGroup>
+
+</Project>
